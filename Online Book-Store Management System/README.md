@@ -83,12 +83,6 @@ Columns:
 - Cities with high-spending customers
 - Customer with the highest spending
 
-## Files Included
-
-- Books.csv
-- Customers.csv
-- Orders.csv
-- sqlproject.sql
 
 ## Tools Used
 
