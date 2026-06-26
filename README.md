@@ -7,6 +7,7 @@ This repository contains Power BI dashboard projects created for data analysis a
 ## Projects
 
 - Online Book-Store Managemnet system
+- pizza sales analysis
 
 ## Tools Used
 postgre sql
